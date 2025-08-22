@@ -1,0 +1,9 @@
+{
+    "token": "Bot Token",
+    "prefix": ".",
+    "logChannelId": "Log kanal id",
+    "categoryId": "Kategori Id",
+    "supportRoleId": "Destek Rol id",
+    "transcriptChannelId": "Transcript kanal id",
+    "botName": "Bot isim"
+}
