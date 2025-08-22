@@ -1,7 +1,6 @@
 const { Client, GatewayIntentBits, Partials, Collection } = require('discord.js');
 const fs = require('fs');
 
-// Config dosyasını oku
 let config;
 if (fs.existsSync('./config.json')) {
     config = JSON.parse(fs.readFileSync('./config.json', 'utf8'));
